@@ -1,0 +1,6 @@
+.box{
+    display: inline-flex;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}

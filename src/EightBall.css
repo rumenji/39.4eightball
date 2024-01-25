@@ -1,0 +1,16 @@
+.circle{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    justify-content: center;
+}
+
+.answer{
+    height: 100%;
+    width: 100%;
+    color: white;
+    position: absolute;
+}
